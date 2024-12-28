@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="plasticqr" size="1.000000 1.000000" />
+    <ImageTarget name="metalqr" size="1.000000 1.000000" />
+    <ImageTarget name="glassqr" size="1.000000 1.000000" />
+    <ImageTarget name="cardboardqr" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
