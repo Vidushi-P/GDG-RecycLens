@@ -706,15 +706,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   steps:
   - {fileID: 1617974115}
+  - {fileID: 1578905243}
   - {fileID: 813136116}
-  - {fileID: 1494110204}
-  - {fileID: 845975455}
   - {fileID: 200492632}
   - {fileID: 1636918563}
   - {fileID: 886892782}
   - {fileID: 1880860184}
   - {fileID: 1949550462}
   - {fileID: 1145191237}
+  - {fileID: 1494110204}
+  - {fileID: 845975455}
   - {fileID: 924738470}
   - {fileID: 175229875}
   stepDescription: {fileID: 0}
@@ -728,12 +729,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 189536868}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.008}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 917907590}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &200492632
 GameObject:
@@ -2760,6 +2761,7 @@ Transform:
   - {fileID: 845975456}
   - {fileID: 924738471}
   - {fileID: 175229876}
+  - {fileID: 189536870}
   m_Father: {fileID: 780259360}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &921878359
@@ -7296,7 +7298,6 @@ SceneRoots:
   - {fileID: 1525485067}
   - {fileID: 780259360}
   - {fileID: 705507995}
-  - {fileID: 189536870}
   - {fileID: 1482704007}
   - {fileID: 573442208}
   - {fileID: 1529971474}
