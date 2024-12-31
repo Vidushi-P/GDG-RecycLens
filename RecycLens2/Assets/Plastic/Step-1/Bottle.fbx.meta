@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bottle.002
-    second: {fileID: -1054535158718641112, guid: 007796f8f19c2454a98317dbf4cd0ab6, type: 3}
+    second: {fileID: 2100000, guid: bf1b0894d11ea314d9848c73544de1c4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
