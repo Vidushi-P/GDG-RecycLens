@@ -5312,6 +5312,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b07c4d804f899df45a4eb955306e28c6, type: 3}
   m_PrefabInstance: {fileID: 553902428}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!1 &570034111
 GameObject:
@@ -15215,9 +15221,48 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
   - component: {fileID: 1483071950}
   - component: {fileID: 1483071952}
   - component: {fileID: 1483071951}
+=======
+  - component: {fileID: 1494110205}
+  m_Layer: 0
+  m_Name: Step 10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1494110205
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1494110204}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.013, y: 0.585, z: 0.237}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1211297009}
+  - {fileID: 1241399661}
+  m_Father: {fileID: 917907590}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1497506089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1497506090}
+  - component: {fileID: 1497506092}
+  - component: {fileID: 1497506091}
+>>>>>>> Stashed changes
   m_Layer: 5
   m_Name: Text (TMP) (1)
   m_TagString: Untagged
@@ -19238,6 +19283,8 @@ Transform:
   m_Father: {fileID: 917907590}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1001 &1886620844
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19314,6 +19361,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1892369203
 =======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1919913327
 >>>>>>> Stashed changes
 GameObject:
