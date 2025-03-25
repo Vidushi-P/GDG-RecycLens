@@ -24,9 +24,11 @@ MonoBehaviour:
     shareRecordingsInITunes: 0
     logLevel: 0
     version: 10.28.4
-    eulaAcceptedVersions: '{"Values":["10.28","0.0"]}'
+    eulaAcceptedVersions: '{"Values":["10.28","0.0","11.0"]}'
   database:
     disableModelExtraction: 0
+  plugins:
+    pluginDirectory: Vuforia
   shaders:
     depthMaskShader: {fileID: 4800000, guid: 9894afa5f3a5e4bbca625981beb1b20e, type: 3}
     outlineShader: {fileID: 4800000, guid: 88d3b6b5cf364476ca39fcec255331b1, type: 3}
