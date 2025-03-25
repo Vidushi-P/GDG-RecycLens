@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="recycleman-metal" size="1.000000 1.000000" />
+    <ImageTarget name="05-pp-symbol" size="1.000000 1.000000" />
+    <ImageTarget name="02-hdpe" size="1.000000 1.000000" />
     <ImageTarget name="metal" size="1.000000 1.000000" />
     <ImageTarget name="glass" size="1.000000 1.000000" />
     <ImageTarget name="plastic" size="1.000000 1.000000" />
