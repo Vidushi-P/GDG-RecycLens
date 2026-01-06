@@ -1,4 +1,4 @@
-# RecycLens: AR Recycling Assistant ♻️
+# RecycLens: AR-Powered Recycling Education Solution ♻️
 
 **RecycLens** is an Augmented Reality (AR) application built with Unity that transforms how people learn about waste management. By blending the digital and physical worlds, the app provides interactive, 3D step-by-step guides for recycling various materials, making sustainability intuitive and engaging. This project was created for the **Google Developer Groups' TechSprint** of R.M.K. Engineering College **(HackNexa 2026)**.
 
