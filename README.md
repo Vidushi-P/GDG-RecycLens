@@ -9,7 +9,6 @@
 * **Interactive 3D Tutorials:** Visualize the recycling process for Plastic, Glass, Cardboard, and Metals through high-quality 3D models animated in your physical space.
 * **AI-Powered Avatar:** An interactive 3D guide that assists users, answers questions, and provides real-time feedback on recycling steps.
 * **Nearby Center Locator:** Integrated Google Maps functionality to find and navigate to the nearest recycling facilities based on the user's current GPS location.
-* **Real-time Progress Tracking:** Powered by Firebase to save user milestones and recycling impact.
 
 ---
 
